@@ -1,0 +1,32 @@
+Table{
+    width: 100%;
+}
+h1{
+    text-algin: center;
+}
+td,th {
+    border: 2px solid black;
+    width: 14.27%;
+}
+th {
+    padding: 8px 0;
+    Background-color:black;
+    color:lightblue;
+}
+td {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.weekend {
+    background-color:gray;
+    color: black;
+}
+.weekday{
+    Background-color:Black;
+    Color:green;
+}
+.holiday{
+    Background-color: aqua;
+    Color:Black
+}
